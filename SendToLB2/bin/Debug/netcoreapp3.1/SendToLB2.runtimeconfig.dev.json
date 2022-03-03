@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\psyco\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\psyco\\.nuget\\packages"
+    ]
+  }
+}
